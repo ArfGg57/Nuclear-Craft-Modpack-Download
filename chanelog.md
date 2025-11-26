@@ -1,25 +1,17 @@
 Added:
-  Mods:
-    -WorldEdit
-  Other:
-    -Blur to title screen panorama
 
 
 Updated:
-  -GTNHLib (library mod)
-  -NotEnoughItems Unofficial 1.7.10
 
 
 Removed:
   Mods:
-    -Overloaded Armor Bar - Rendered over any extra hearts
-    -Waila Harvestability - Wasn't even being used
+    -Craftable Saddles - HBM's Nuclear Tech Mod allready adds craftable saddles
   Other:
-    -A couple unused config files
+    -Super annoying sould sand sound effect from Dynamic Surroundings
 
 
 Changed:
-  -Main server IP
-  -Shader Brightness
+
 
 Fixed:
