@@ -11,6 +11,7 @@ Removed:
   Other:
     -Super annoying soul sand sound effect from Dynamic Surroundings
     -Unused config files
+    -Applied Energistics matter cannon
 
 
 Changed:
