@@ -8,6 +8,7 @@ Updated:
 Removed:
   Mods:
     -Craftable Saddles - HBM's Nuclear Tech Mod allready adds craftable saddles
+    -File Director - In preperation for my new custom modpack updating mod :)
   Other:
     -Super annoying soul sand sound effect from Dynamic Surroundings
     -Unused config files
@@ -15,6 +16,7 @@ Removed:
 
 
 Changed:
-
+  -Title screen author text
 
 Fixed:
+  -Rendering issue due to Angelica performace option (again T-T)
