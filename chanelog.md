@@ -1,5 +1,8 @@
-Added:
+Version 1.2.0
 
+
+Added:
+  -Nothing this time...
 
 Updated:
   -HBM's Nuclear Tech Mod
@@ -16,7 +19,9 @@ Removed:
 
 
 Changed:
-  -Title screen author text
+  -Completely re-did the main menu
+  -Reduced RAM recommendation from 7GB to 6GB
+
 
 Fixed:
   -Rendering issue due to Angelica performace option (again T-T)
