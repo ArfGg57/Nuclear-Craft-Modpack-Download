@@ -1,27 +1,22 @@
-Version 1.2.0
+Version 1.2.2
 
 
 Added:
-  -Nothing this time...
+  -ModUpdaterV3
+
 
 Updated:
-  -HBM's Nuclear Tech Mod
+  -Nothing this time...
 
 
 Removed:
   Mods:
-    -Craftable Saddles - HBM's Nuclear Tech Mod allready adds craftable saddles
-    -File Director - In preperation for my new custom modpack updating mod :)
-  Other:
-    -Super annoying soul sand sound effect from Dynamic Surroundings
-    -Unused config files
-    -Applied Energistics matter cannon
+    -"Better Questing - Quest Book"
 
 
 Changed:
-  -Completely re-did the main menu
-  -Reduced RAM recommendation from 7GB to 6GB
+  Nothing this time...
 
 
 Fixed:
-  -Rendering issue due to Angelica performace option (again T-T)
+  Nothing this time...
